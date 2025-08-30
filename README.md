@@ -1,64 +1,70 @@
-# Hi, I’m Jonathan  
+<!-- GitHub Profile README -->
 
-**Sign Language Interpreter | Front-End Developer in Training | Accessibility Advocate**  
-
-I bridge communication for the Deaf community and build inclusive digital tools.  
-With 10+ years of interpreting in legal, healthcare, and international events, I am now applying my skills to technology.  
+<h1 align="center">Hi 👋, I'm Jonathan Darko Ntim</h1>
+<h3 align="center">Front-End Web Development Learner | Sign Language Interpreter | Tech for Accessibility Advocate</h3>
 
 ---
 
-## About Me  
-- Professional **Sign Language Interpreter** with international experience  
-- Learning and building in **HTML, CSS, JavaScript**  
-- Advocate for **accessibility and Deaf-friendly digital solutions**  
-- Exploring **cybersecurity and network administration**  
+### 👨🏾‍💻 About Me  
+I am a learner of the **ALX Front-End Web Development Program**, passionate about building accessible and user-friendly digital experiences.  
+
+This is why I started with software engineering:  
+- To combine my background in **sign language interpretation** with technology  
+- To build tools that bridge communication barriers for the Deaf community  
+- To grow into a versatile developer with both **design sense and problem-solving ability**  
+
+What inspires me:  
+- Seeing technology remove barriers in healthcare, education, and legal access  
+- The opportunity to contribute to **open-source projects** that improve accessibility  
+- Working on real-world projects that impact communities  
+
+My aim is to:  
+- Become a **skilled Front-End Developer** capable of creating responsive and scalable solutions  
+- Leverage my skills to promote **inclusion in technology**  
+- Contribute to both **startups and global initiatives** improving accessibility  
+
+That’s why I would like to work on:  
+- Front-end applications with clean, maintainable code  
+- Projects that integrate **accessibility (a11y)** as a core value  
+- Open-source initiatives focusing on **healthtech, edtech, and social good**  
 
 ---
 
-## Current Focus  
-- Building an **app concept for Deaf users and interpreters**  
-- Growing as a **front-end web developer**  
-- Creating projects with **accessibility-first design**  
+### 🏆 Achievements  
+- Over **10 years** of professional experience as a **Sign Language Interpreter** across legal, healthcare, and educational fields  
+- Recognized collaborator with **international organizations and leaders** promoting inclusion  
+- Currently transitioning into **tech** with a growing portfolio of **front-end projects**  
 
 ---
 
-## Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 📂 Portfolio Highlights  
+- **[My Portfolio Website](https://jonathandarko.com/)**  
+- **Healthcare App for the Deaf (Concept Demo)**  
+- **Responsive Web Designs and UI projects**  
 
 ---
 
-## Highlight Projects  
-- https://jonathandarko.com/(#) – My professional portfolio  
- 
----
-
-## GitHub Stats  
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+### 🛠️ Tech Stack  
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks**: React (in progress), TailwindCSS  
+- **Tools**: Git, GitHub, VS Code  
+- **Other Skills**: Accessibility testing, Interpretation workflows  
 
 ---
 
-## Connect With Me  
-[!www.linkedin.com/in/jonathan-ntim-3140a5364 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInLink)  
-[!https://jonathandarko.com/(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YourPortfolioLink)  
-[!jonathankweku2@gmail.com(https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail)  
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Jonathan's GitHub stats" />
+</p>
 
-<!--
-**JonathanD250/JonathanD250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 How to reach me  
+- 📧 Email: **jonathan.ntim@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/jonathandarko](https://linkedin.com/in/jonathandarko)  
+- 🐦 Twitter: [twitter.com/jonathandarko](https://twitter.com/jonathandarko)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">✨ Let’s connect and collaborate on projects that make tech inclusive for everyone!</h3>
+
