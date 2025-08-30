@@ -8,6 +8,7 @@
 [![ALX](https://img.shields.io/badge/ALX-Software%20Engineering-blue?style=for-the-badge)](https://www.alxafrica.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/JonathanD250)
 
+</div>
 ---
 
 ### 👨🏾‍💻 About Me  
