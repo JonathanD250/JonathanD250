@@ -1,7 +1,9 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Jonathan Darko Ntim</h1>
-<h3 align="center">Front-End Web Development Learner | Sign Language Interpreter | Tech for Accessibility Advocate</h3>
+<h3 align="center">Front-End Web Development Learner | Sign Language Interpreter | Tech for Accessibility Advocate</h3 
+[![ALX](https://img.shields.io/badge/ALX-Software%20Engineering-blue?style=for-the-badge)](https://www.alxafrica.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/JonathanD250)
 
 ---
 
