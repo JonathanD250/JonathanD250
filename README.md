@@ -60,9 +60,9 @@ That’s why I would like to work on:
 ---
 
 ### 📫 How to reach me  
-- 📧 Email: **jonathan.ntim@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/jonathandarko](https://linkedin.com/in/jonathandarko)  
-- 🐦 Twitter: [twitter.com/jonathandarko](https://twitter.com/jonathandarko)  
+- 📧 Email: **jonathankweku2@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/jonathandarko](https://www.linkedin.com/in/jonathan-ntim-3140a5364/)  
+- 🐦 Twitter: [twitter.com/jonathandarko](https://x.com/JoeKay25)  
 
 ---
 
